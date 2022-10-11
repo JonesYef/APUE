@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/jakc/mycode'
+make: Leaving directory '/home/jakc/mycode'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
